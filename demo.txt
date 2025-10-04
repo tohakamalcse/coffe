@@ -1,0 +1,47 @@
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ git init
+Initialized empty Git repository in D:/Git/Tutorial/coffe/.git/
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ git config --global user.name "Toha"
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ git config --global user.email "md.t.kamal539@gmail.com"
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=schannel
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+gui.recentrepo=D:/Git/Tutorial
+user.name=Toha
+user.email=md.t.kamal539@gmail.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ ^C
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ ^C
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$
+
+
+
