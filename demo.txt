@@ -43,5 +43,69 @@ $ ^C
 Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
 $
 
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        cold.txt
+        demo.txt
+        hot.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ git add cold.txt
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   cold.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        demo.txt
+        hot.txt
+
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$
+
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ git add .
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   cold.txt
+        new file:   demo.txt
+        new file:   hot.txt
+
+
+Demo@DESKTOP-6F1K2VS MINGW64 /d/Git/Tutorial/coffe (master)
+$
+
+
+
+
+
+
+
+
+
 
 
